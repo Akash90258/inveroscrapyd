@@ -1,0 +1,7 @@
+scrapyd_heroku.egg-info/
+dist/
+build/
+
+\.idea/
+
+*.pyc
